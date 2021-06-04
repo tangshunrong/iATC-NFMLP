@@ -1,0 +1,10 @@
+Run step
+0.10Cross-training.ipynb
+1.10Cross validation.ipynb
+2.Result calculation.ipynb
+
+File description
+512_400.arff: dataset (Not disrupted)
+512_400_S.arff: dataset (randomed)
+512_400_S.csv: dataset (backup)
+atc-label-512-400_S.txt: labels for validation 
