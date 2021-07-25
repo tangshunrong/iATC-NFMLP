@@ -4,9 +4,9 @@
 
   A novel multi-label classifier, based on molecule similarity, structure and multilayer perceptron, is for the drug ATC label prediction in first layer. Use molecule fingerprint and network embedding as feature, MLP as classification method.                                                       
   
-  Used drug-related information in STITCH and KEGG, which consists of seven drug networks. Mashup, a powerful network embedding algorithm, is used to extract information-rich drug features. ECFP fingerprint extraction method is for structure vectors.                                                          
+  Use drug-related information in STITCH and KEGG, which consists of seven drug networks. Mashup, a powerful network embedding algorithm, is used to extract information-rich drug features. ECFP fingerprint extraction method is for structure vectors.                                                          
   
-  The obtained feature is feed into a MLP classifier. The classifier is modified in activation function to adapt the multi-label classification. The network structure is in the figure.                                                                           
+  The obtained feature is fed into a MLP classifier. The classifier is modified in activation function to adapt the multi-label classification. The network structure is in the figure.                                                                           
   
   Through 10-cross validation, the absolute true and accuracy are 78.35% and 82.34% respectively. Through jackknife validation, the absolute true and accuracy are 79.27% and 82.76% respectively.                                                                
 
