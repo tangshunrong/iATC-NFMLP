@@ -4,7 +4,7 @@ Run step
 2.Result calculation.ipynb
 
 File description
-512_400.arff: dataset (Not disrupted)
+512_400.arff: dataset (Not randomed)
 512_400_S.arff: dataset (randomed)
 512_400_S.csv: dataset (backup)
-atc-label-512-400_S.txt: labels for validation 
+atc-label-512-400_S.txt: labels for validation (for 512_400_S.arff)
