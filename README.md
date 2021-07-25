@@ -23,7 +23,7 @@
 #### Keras Version 2.2.4
 #### Python Version 3.6
 
-#### Mashup runtime: 
+#### Mashup runtime (only when you need to re-prepare the datasets): 
 Matlab2016a                                         
 Reference: https://github.com/zhou256/iATC-NRAKEL
 
