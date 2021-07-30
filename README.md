@@ -34,6 +34,6 @@ Run “0.10Cross-training”, “1.10Cross validation”, “2.Result calculatio
 ### Jackknife
 Unzip the “0.run.zip” file, and run “1.run.bat”, the program will run for 3-4 days. After that, you will get a result file containing 3883 prediction results. Then use the results for validation. The validation code is in “1.val” folder. 
 
-## Other Info
+## Other Infomation
 Network embedding dataset and Mashup algorithm are from: https://github.com/zhou256/iATC-NRAKEL
 
