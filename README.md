@@ -1,6 +1,6 @@
 # iATC-NFMLP
 
-## Introduce
+## Introduction
 
   A novel multi-label classifier, iATC-NFMLP, is proposed to identify classes in the first level of Anatomical Therapeutic Chemicals (ATC) classification system for given drugs. It adopts features derived from seven drug networks and fingerprints to encode drugs and multilayer perceptron as the prediction engine.                                                                                                            
 
