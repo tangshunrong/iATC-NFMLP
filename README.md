@@ -17,7 +17,7 @@
 #### Tensorflow Version 1.15   
 #### Keras Version 2.2.4
 #### Python Version 3.6
-
+#### Jupiter Notebook Version 6.3.0
 
 ## Running Method
 ### 10-fold cross-validation                                                                                        
