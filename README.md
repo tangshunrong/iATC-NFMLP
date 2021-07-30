@@ -9,7 +9,7 @@
 
                                                      
                                  
-<div align=center><img src="https://github.com/tangshunrong/iATC-NFMLP/blob/main/iATC-NFMLP.jpg" width="989" height="700" />
+<div align=center><img src="https://github.com/tangshunrong/iATC-NFMLP/blob/main/iATC-NFMLP.jpg" width="824" height="583" />
 </div>
 
 
