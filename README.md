@@ -4,7 +4,7 @@
 
   A novel multi-label classifier, iATC-NFMLP, is proposed to identify classes in the first level of Anatomical Therapeutic Chemicals (ATC) classification system for given drugs. It adopts features derived from seven drug networks and fingerprints to encode drugs and multilayer perceptron as the prediction engine.                                                                                                            
 
-  Through 10-fold cross-validation, the absolute true and accuracy are 78.35% and 82.34% respectively. Through jackknife test, the absolute true and accuracy are 79.27% and 82.76% respectively, higher than previous classifiers.                                                                
+  Through 10-fold cross-validation, the absolute true and accuracy are 78.35% and 82.34% respectively. Through jackknife test, the absolute true and accuracy are 79.27% and 82.76% respectively, higher than those yielded by previous classifiers.                                                               
                                                             
 
                                                      
